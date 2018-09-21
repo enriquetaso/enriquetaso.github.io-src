@@ -6,9 +6,7 @@ SITENAME = u'enriquetaso'
 SITEURL = 'http://enriquetaso.github.io'
 
 PATH = 'content'
-
 TIMEZONE = 'Europe/Paris'
-
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
@@ -19,10 +17,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Twitter', 'https://twitter.com/enriquetaso'),
+         ('LinuxChix Ar', 'https://twitter.com/linuxchixar'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
