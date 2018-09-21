@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'enriquetaso'
 SITENAME = u'enriquetaso'
-SITEURL = 'http://enriquetaso.github.io'
+SITEURL = 'https://enriquetaso.github.io'
 
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
