@@ -22,14 +22,10 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/enriquetaso'),
-          ('github', 'https://github.com/enriquetaso'),
-          ('envelope','mailto:lsofia.enriquez@gmail.com'))
+          ('github', 'https://github.com/enriquetaso'))
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-# Attila THEME customization
-HEADER_COLOR = 'black'
-COLOR_SCHEME_CSS = 'monokai.css'
+THEME = 'attila'
