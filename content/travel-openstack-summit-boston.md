@@ -69,5 +69,5 @@ I couldn’t attend to all of them, but here you can
 I have to stop here a second, and write about the OpenStack party at
 Fenway Park !!! My first OpenStack city party.
 
-![Openstack Party Fenway Park]({filename}/images/redboston.png)
+![Openstack Party Fenway Park]({filename}/images/redsocks-boston.jpg)
 ![Openstack Party Fenway Park2]({filename}/images/redboston.png)
