@@ -2,7 +2,6 @@ Title: OPNFV Internship and Plugfest 2018
 Tags: travel 
 Authors: Sofia Enriquez
 Date: 2018-06-04 10:00
-Summary: OPNFV is an open source project within The Linux Foundation. 
 
 
 ![OPNFV POSTER]({filename}/images/plugfest-opnfv-2018-header.png)
