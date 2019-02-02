@@ -30,5 +30,6 @@ SOCIAL = (('twitter', 'https://twitter.com/enriquetaso'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-THEME = 'attila'
+# RELATIVE_URLS = True
+# THEME = 'attila'
+
